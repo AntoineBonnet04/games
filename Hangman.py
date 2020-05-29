@@ -1,9 +1,6 @@
-#MERILL BOBOTIS 1830385
-#420-LCU COMPUTER PROGRAMMING
-#INSTRUCTOR S. HILAL
-#FINAL PROJECT
+#Antoine Bonnet
 
-# Option 1: 5 - User Guess the Word: A hangman game
+# User Guess the Word: A hangman game
 
 import random
 
